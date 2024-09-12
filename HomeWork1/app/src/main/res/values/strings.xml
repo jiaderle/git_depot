@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">李嘉乐2022110522</string>
+    <string name="button">Click me</string>
+    <string name="textView">Hello World!</string>
+    <string name="clicked">I am clicked!</string>
+</resources>

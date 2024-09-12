@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">李嘉乐2022110522</string>
+    <string name="button">クリックしてね</string>
+    <string name="textView">ハローワールド</string>
+    <string name="clicked">とクリックされました!</string>
+</resources>
